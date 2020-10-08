@@ -14,3 +14,4 @@ sphinx:
     html_static_path: ['_static']
     html_theme_options:
       plugins_list: ['../plugins/qe-menubar.js']
+      google_analytics_id: put-id-here
